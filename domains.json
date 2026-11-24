@@ -1,0 +1,8 @@
+{
+  "appId": 250,
+  "domains": [
+    "https://d1x2lvttinxnrj.cloudfront.net"
+  ],
+  "healthPath": "/api/v1/health",
+  "updatedAt": "2026-11-24T10:21:09Z"
+}
